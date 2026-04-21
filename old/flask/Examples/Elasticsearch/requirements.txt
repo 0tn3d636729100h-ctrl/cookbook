@@ -1,6 +1,6 @@
 gunicorn==19.9.0
 eventlet==0.40.3
-python-dotenv==0.10.2
+python-dotenv==1.2.2
 Flask==1.0.3
 elasticsearch==7.0.2
 requests==2.22.0
